@@ -1,6 +1,6 @@
 # Katie Donia - Personal Portfolio
 **Senior thesis:**
-<br>[The Complete Sight and Sound Greatest Films of All Time Database](https://parcel-react-bondie00.vercel.app/){:target="_blank"} (React, JavaScript, HTML, CSS)
+<br>[The Complete Sight and Sound Greatest Films of All Time Database](https://parcel-react-bondie00.vercel.app/) (React, JavaScript, HTML, CSS)
 <br><br>**d3.js projects:**
 <br>[Guam interactive](https://bondie00.github.io/D3_Portfolio/Project/)
 <br>[Quarterback chart](https://bondie00.github.io/D3_Portfolio/3_2_distributions/)
